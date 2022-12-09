@@ -25,7 +25,3 @@ transformers==4.22.1
 typing_extensions==4.3.0
 urllib3==1.26.12
 zipp==3.8.1
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
